@@ -19,7 +19,7 @@ else :
 ```python
 n = ord(input("Un caracter"))
 if n>=48 and n<=57 :
-		print("El caracter es un digito")
+    print("El caracter es un digito")
 else :
     print("El carácter no es un digito")
 ```
